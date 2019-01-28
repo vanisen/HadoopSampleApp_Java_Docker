@@ -1,4 +1,4 @@
-# Hadoop Aplication for uploading image
+# Hadoop Application for uploading image
 #### ABOUT
  
 Map reduce job to upload image to Imgur. 
