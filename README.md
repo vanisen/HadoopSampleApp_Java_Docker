@@ -122,7 +122,7 @@ This Application is deployed in local on mac  as well as in Cloudera Docker VM.
       We will see map reduce job gets spawned in your terminal.
       Also we can monitor the job in yarn : [http://localhost:8088/cluster](http://localhost:8088/cluster)
 
-#### Steps to configure Cloudera Docker Container 
+#### Alternatively - Steps to configure Cloudera Docker Container 
  * Ensure you have jdk 1.7 installed in your system.
  * Ensure you have installed your docker and it is up and running.
  * Navigate inside the repo which you have cloned.
